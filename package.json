@@ -18,7 +18,7 @@
   "dependencies": {
     "debug": "2.2.0",
     "lodash": "3.9.3",
-    "minimatch": "2.0.8",
+    "minimatch": "3.0.2",
     "string": "3.2.0"
   }
 }
